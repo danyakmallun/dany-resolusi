@@ -2,3 +2,4 @@ MEMPELAJRI MENJADI SEORANG WEB DEVELOPER HANDAL
   #Berikut adalah yang teknologi yang harud di pelajari
   1. Bahasa markup (html)
   2. Styling (css)
+  3. Bahasa pemrograman php
