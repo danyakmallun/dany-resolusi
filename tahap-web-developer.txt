@@ -3,4 +3,4 @@ MEMPELAJRI MENJADI SEORANG WEB DEVELOPER HANDAL
   1. Bahasa markup (html)
   2. Styling (css)
   3. Bahasa pemrograman php
-  4. Bahasa pemrograman javascript
+  4. Bahasa sql
