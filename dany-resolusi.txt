@@ -1,3 +1,4 @@
 DANY RESOLUSI
 - Konsisten untuk belajar bahasa pemrograman web
-- Mempelajari bahasa pemrogrman php
+- Mempelajari bahasa pemrograman php
+- Mempelajari bahasa pemrograman java script
